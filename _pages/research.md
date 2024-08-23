@@ -12,7 +12,7 @@ My academic research focuses on the high-energy astonomical transient called a "
 My work is about connecting the light we observe to the properties of the collision: how much mass is expelled in the collision ("ejecta"), how quickly is the ejecta traveling, how much of the ejecta is composed of the heaviest metals, and more. Analogously, this is the equivalent of seeing a cake and trying to deduce how much of each ingredient went into the cake and how it was baked. I do this by simulating kilonovae (plural of kilonova) in the radiative transfer code [Sedona](https://github.com/dnkasen/pubsed), which tracks how light interacts with the ejecta as it travels through the ejecta and predicts the light that astronomers should observe. 
 
 
-Prior to my work on kilonovae, I worked on X-ray astronomy of high-energy transients including supernovae and Fast Blue Optical Transients (FBOTs). Below are some of the work I have been a part of:
+Prior to my work on kilonovae, I worked on X-ray astronomy of high-energy transients including supernovae and Fast Blue Optical Transients (FBOTs). Click below for more specifics about my work.
 
 <nbsp>
 
