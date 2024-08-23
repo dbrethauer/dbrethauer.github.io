@@ -3,7 +3,7 @@ title: "Uncertainties in Kilonova Properties"
 layout: single-portfolio
 excerpt: "<img src='/images/research/gw170817.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 20
 header: 
   og_image: "research/gw170817.png"
 ---
