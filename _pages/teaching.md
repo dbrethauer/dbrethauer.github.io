@@ -3,7 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
+Teaching is not only critical to passing on information and equipping the next generation with tools to succeed in the world, but it also serves to inspire curiosity and can be thought of as a more formal outreach.
+
+[comment]: <> (Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
 experience. I have taught undergraduate courses on political violence and
 statistical methodology. While at UNC, I taught the graduate statistics lab for
@@ -16,25 +18,13 @@ sciences. I am also a
 [certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
 [The Carpentries](https://carpentries.org/), which develops evidence-based
 methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+efficient, open, and reproducible research.")
+
+## UC Berkeley
+- Astro C10: Introduction to Astronomy for Non-Majors (Spring 2022)
+- Astro 160: Stellar Physics (Fall 2022)
+- Astro C10: Introduction to Astronomy for Non-Majors (Fall 2023) - Head GSI
+- MPS 375: Pedagogy for First-time Instructors, Astronomy (Fall 2024)
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
-
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
