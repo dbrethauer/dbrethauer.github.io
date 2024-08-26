@@ -4,6 +4,10 @@ title: "Teaching"
 ---
 
 Teaching is not only critical to passing on information and equipping the next generation with tools to succeed in the world, but it also serves to inspire curiosity and can be thought of as a more formal outreach.
+This is especially true for introductory classes where students do not have much of a background, if any, in the subject.
+
+As such, I strive to teach frequenctly as a Graduate Student Instructor (GSI) and in a variety of environments. I have taught for the technical and high-level astrophysics of stars class, as well as twice for the introductory astronomy class for non-majors; I taught once as a regular GSI and the second as the Head GSI, meaning that I successfully ran the behind-the-scenes administrative work for the 1000+ student class while teaching two of my own sections. 
+
 
 [comment]: <> (Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
