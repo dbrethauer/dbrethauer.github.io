@@ -7,7 +7,7 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2025-08-18
-permalink: /posts/LPS
+permalink: /outreach/LPS
 excerpt_separator: <!--more-->
 toc: false
 header:
