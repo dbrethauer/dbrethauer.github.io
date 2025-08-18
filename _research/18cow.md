@@ -9,4 +9,4 @@ header:
 ---
 
 
-2018cow
+Fast Blue Optical Transients (FBOTs) are a rare kind of transient phenomena that are a huge area of active research. The most well-studied one is AT2018cow, which I helped with the analysis of X-ray data the summer of my first year in undegrad.
