@@ -26,6 +26,8 @@ I have been a STEM pen pal since 2019.
 
 # Mentorship
 
+I am an [N3AS](https://n3as.berkeley.edu/) Mentor advising two undergraduate transfer students starting in fall 2025, focusing on simulating kilonovae using the radiative transfer code Sedona. Through my mentorship, I hope to teach my students critical reading and thinking skills, coding skills, and how to write a scientific paper.
+
 # Astro Movie Night
 Astro Movie Night is all about engaging with the community in a fun way - astronomy-themed movies! Each semester, we hold 6 Astro Movie nights that anyone in the community can attend and screen movies ranging from Star Trek to Lilo & Stitch. 
 
