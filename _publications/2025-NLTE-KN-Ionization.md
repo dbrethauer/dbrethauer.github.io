@@ -5,5 +5,5 @@ permalink: /publication/NLTE-KN-Ionization
 date: 2026-01-02
 venue: 'ApJ'
 link: 'https://ui.adsabs.harvard.edu/abs/2025arXiv250818364B/abstract'
-citation: "Brethauer, D., Kasen, D., Chornock, R., &  Margutti, R."
+citation: "Brethauer, D., Kasen, D., Margutti, R., & Chornock, R. 2026, ApJ, 996, 64, doi: 10.3847/1538-4357/ae1b8d"
 ---
