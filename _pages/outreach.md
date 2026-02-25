@@ -36,6 +36,9 @@ I have been co-running Astro Movie Night since 2022.
 # Science Envoy
 [Wonderfest Science Envoys](https://wonderfest.org/science-envoy/) is a workshop series where young scientists sharpen their public speaking skills over the course of a year. Everything from presentation skills to fighting nerves and question answering is covered in this workshop series! Then, we put those newly learned skills to good use at local events such at the KPOO's "Let Me Touch Your Mind" Radio Hour [interview](https://drive.google.com/file/d/1havWkO0_wzfXf-2-UW82s0LN3daYAo0n/view) and at the [Wonderfest Science Series](https://youtu.be/NsEPyAkhEtg).
 
+# Splash High School Teaching
+[Splash at Berkeley](https://berkeley.learningu.org/) is a semesterly day where local high schoolers come to the UC Berkeley campus and take classes on all sorts of topics, ranging from how to do taxes to the classes I have been teaching for the past five years, CSI: Supernova - The Death of a Star and (Astronomically) Rocking out to Heavy Metal - The Origins of the Heaviest Elements on the Periodic Table.
+
 
 
 {% include base_path %}
