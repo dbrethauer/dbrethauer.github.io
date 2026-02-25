@@ -1,5 +1,5 @@
 ---
-title: "Non-thermal Ionization in Kilonova Ejecta"
+title: "Radioactive Ionization in Kilonova"
 layout: single-portfolio
 excerpt: "<img src='/images/research/radioactive.jpg' alt=''>"
 collection: research
