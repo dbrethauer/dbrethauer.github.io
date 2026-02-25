@@ -3,7 +3,7 @@ title: "Radioactive Ionization in Kilonova"
 layout: single-portfolio
 excerpt: "<img src='/images/research/radioactive.jpg' alt=''>"
 collection: research
-order_number: 40
+order_number: 10
 header: 
   og_image: "research/radioactive.jpg"
 ---
