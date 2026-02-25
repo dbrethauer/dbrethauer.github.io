@@ -1,11 +1,11 @@
 ---
 title: "Non-thermal Ionization in Kilonova Ejecta"
 layout: single-portfolio
-excerpt: "<img src='/images/research/spherical_cow.jpg' alt=''>"
+excerpt: "<img src='/images/research/radioactive.jpg' alt=''>"
 collection: research
 order_number: 40
 header: 
-  og_image: "research/spherical_cow.jpg"
+  og_image: "research/radioactive.jpg"
 ---
 
 
