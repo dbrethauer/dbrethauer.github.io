@@ -8,6 +8,8 @@ This is especially true for introductory classes where students do not have much
 
 As such, I strive to teach frequenctly as a Graduate Student Instructor (GSI) and in a variety of environments. I have taught for the technical and high-level astrophysics of stars class, as well as twice for the introductory astronomy class for non-majors; I taught once as a regular GSI and the second as the Head GSI, meaning that I successfully ran the behind-the-scenes administrative work for the nearly 1000 student class while teaching two of my own sections. 
 
+I completed my [Certificate of Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) in the semester of Fall 2025.
+
 
 ## UC Berkeley
 - Astro C10: Introduction to Astronomy for Non-Majors (Spring 2022)
