@@ -22,19 +22,19 @@ title: "Family History"
 
 <p align="center">
 <img src="../images/research/AngelinaPanicolaPavia+AntonioPavia.jpeg" alt="A picture from my mother's maternal grandparent's wedding, Angelina and Antonio Pavia" width="200"/><br>
-*A picture from my mother's maternal grandparent's wedding, Angelina and Antonio Pavia.*
+<i>A picture from my mother's maternal grandparent's wedding, Angelina and Antonio Pavia.</i>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Sicilian ancestors lived in a close-knit community along with many other Italian immigrants in the neighborhoods surrounding Chicago, which would eventually become the modern day ‘Little Italy’s’ that dot the cityscape. Here, English was not commonly spoken. After all, when all of the immigrants were building communities for themselves for safety against attacks, there was not really much of a need to do so. This is well encapsulated by a story that my mother told me, that she was stunned when she finally had dinner with my father’s family because it was the first time that she had met old people without any accents! Despite starting from communities that did not speak English, Italian culture has become intertwined with American culture and we have all greatly benefited from the food, music, and art this combination has produced.
 <p align="center">
 <img src="../images/research/JennieGiacaloneCognato+RosarioCognato.jpeg" alt="A picture from my mother's paternal grandparent's wedding, Jennie and Rosario Cognato" width="200"/><br>
-*A picture from my mother's paternal grandparent's wedding, Jennie and Rosario Cognato.*
+<i>A picture from my mother's paternal grandparent's wedding, Jennie and Rosario Cognato.</i>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even without intense, specifically anti-Finnish political messaging, my paternal grandmother and her family were not unaffected by the pervasive fog of anti-immigrant sentiment that cloaked the country. Growing up, my paternal grandmother was raised in a household where any sign that you had been born elsewhere was faux pas. She was only taught English, losing the native language of her ancestors and her parents. The anti-immigrant sentiment was so internalized that my paternal grandmother supposedly had to forge her parent’s signature when bringing home her report card, not because she wanted to hide her grades but because her mother refused to sign fearing her signature and name were ‘too ethnic.’
 <p align="center">
 <img src="../images/research/Alvar+Ellen_Eklov.jpg" alt="A picture of my father's maternal grandaprents, Ellen and Alvar Eklov, in front of their house holding my father who is around one year old" width="200"/><br>
-*A picture of my father's maternal grandaprents, Ellen and Alvar Eklov, in front of their house holding my father who is around one year old.*
+<i>A picture of my father's maternal grandaprents, Ellen and Alvar Eklov, in front of their house holding my father who is around one year old.</i>
 </p>
 
 
