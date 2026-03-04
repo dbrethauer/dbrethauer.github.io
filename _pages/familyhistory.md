@@ -41,7 +41,7 @@ title: "Family History"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even without intense, specifically anti-Finnish political messaging, my paternal grandmother and her family were not unaffected by the pervasive fog of anti-immigrant sentiment that cloaked the country. Growing up, my paternal grandmother was raised in a household where any sign that you had been born elsewhere was faux pas. She was only taught English, losing the native language of her ancestors and her parents. The anti-immigrant sentiment was so internalized that my paternal grandmother supposedly had to forge her parent’s signature when bringing home her report card, not because she wanted to hide her grades but because her mother refused to sign fearing her signature and name were ‘too ethnic.’
 <p align="center">
 <img src="../images/research/Alvar+Ellen_Eklov.jpg" alt="A picture of my father's maternal grandaprents, Ellen and Alvar Eklov, in front of their house holding my father who is around one year old" width="300"/><br>
-<i>A picture of my father's maternal grandaprents, Ellen and Alvar Eklov, in front of their house holding my father who is around one year old.</i>
+<i>A picture of my father's maternal grandparents, Ellen and Alvar Eklov, in front of their house holding my father who is around one year old.</i>
 </p>
 
 
