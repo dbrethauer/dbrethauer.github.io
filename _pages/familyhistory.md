@@ -13,7 +13,7 @@ title: "Family History"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The road to creating a prosperous life in America was never easy for my ancestors. On the German side, the Know Nothing Party (named for the response its members were supposed to give when asked about the details of the party, “I know nothing”) was a prominent political movement that had strong opinions about my family being there. The Know Nothing Party said that Germans, along with the Irish, were bringing Catholicism to the United States in an effort to destroy religious and civil liberties of Protestants and therefore take over the government by mass-recruiting voters that would defer to whatever the local Catholic bishop said. In fact, one of the first pictures that [the Wikipedia page includes about the Know Nothing Party](https://en.wikipedia.org/wiki/Know_Nothing) is a political cartoon from the era depicting an Irishman and a German wearing barrels of alcohol running away with a ballot box to steal the election. That sounds like Mad Libs to me!
 
 <p align="center">
-<img src="../images/research/KnowNothingCartoon.jpeg" alt="A political" width="600"/><br>
+<img src="../images/research/KnowNothingCartoon.jpeg" alt="A political cartoon from the Know Nothing Party page on Wikipedia" width="600"/><br>
 <i>1850s political cartoon by John H. Goater: Irish and German caricatures "stealing an election" with chaos at the "Election Day Polls" site, fueling fears of immigrant political power. Credit: Wikipedia</i>
 </p>
 
