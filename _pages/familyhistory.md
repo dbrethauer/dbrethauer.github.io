@@ -33,14 +33,16 @@ title: "Family History"
 
 ### Introduction
 Translation of our father’s history of our family from the time our grandfather’s emigrated from Niederkaufungen, Germany in the year 1854, down through the years and their trip back to the old home in Niederkaufungen in 1912. Our father kept his promise to mother to take her back to her old home when we children would be able to take care of ourselves.
-This is a translation of the Wilhelm Brethauer family history written by August Brethauer (32), youngest of the three children who immigrated to the United States in 1854.
-The cast in this story is:
 
-(26) William - father (Wilhelm Brethauer) born 1813
-(29) Maria - mother (Maria Katharina nee-Vollmar) married 1840
-Children - (30) -  Anna (Records show name as Gertrud) born 1840
-	   (31) - Henry (Johann Jost Henrich) born 1843
-	    (32) - August (Records show name as Justus) AUTHOR born 1851
+This is a translation of the Wilhelm Brethauer family history written by August Brethauer (32), youngest of the three children who immigrated to the United States in 1854.
+
+The cast in this story is:
+* (26) William - father (Wilhelm Brethauer) born 1813
+* (29) Maria - mother (Maria Katharina nee-Vollmar) married 1840
+Children - 
+* (30) -  Anna (Records show name as Gertrud) born 1840
+* (31) - Henry (Johann Jost Henrich) born 1843
+* (32) - August (Records show name as Justus) AUTHOR born 1851
 
 Translation of Our Father’s History of Our Family
 August Brethauer (31)
