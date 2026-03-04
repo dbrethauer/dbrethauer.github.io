@@ -61,6 +61,7 @@ This is a translation of the Wilhelm Brethauer family history written by August 
 The cast in this story is:
 * (26) William - father (Wilhelm Brethauer) born 1813
 * (29) Maria - mother (Maria Katharina nee-Vollmar) married 1840
+  
 Children - 
 * (30) -  Anna (Records show name as Gertrud) born 1840
 * (31) - Henry (Johann Jost Henrich) born 1843
